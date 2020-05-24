@@ -30,7 +30,7 @@ https://beta.observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-te
    learning on a new set of classes you define on the fly with the webcam
 
 ## Requirements:
-To complete this codelab, you will need:
+if you want to modify the code, you will need:
  - a text editor, either running locally on your machine or terminal
  - some knowledge of HTML, CSS, JavaScript, and your browser's devtools
  - a high-level conceptual understanding of Neural Networks
