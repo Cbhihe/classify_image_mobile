@@ -12,6 +12,12 @@ run a popular pre-trained model called MobileNet for image classification
 in the browser. we then use "transfer learning" to bootstrap NN training
 with the pre-trained MobileNet model and customizes it.
 
+If you need an introduction or refresher, consider watching:
+ - a video by 3blue1browns:
+     https://www.youtube.com/watch?v=aircAruvnKk
+ - a video on Deep Learning in Javascript by Ashi Krishnan.
+     https://www.youtube.com/watch?v=SV-cgdobtTA
+
 ## To know more
  - about tensorflow applications based on inference, derived from (pretrained)
  transfer models ported to mobile platform, check out:
@@ -23,13 +29,11 @@ https://beta.observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-te
  - use intermediate activations of MobileNet to do transfer
    learning on a new set of classes you define on the fly with the webcam
 
-## Requiremnts:
+## Requirements:
 To complete this codelab, you will need:
  - a text editor, either running locally on your machine or terminal
  - some knowledge of HTML, CSS, JavaScript, and your browser's devtools
  - a high-level conceptual understanding of Neural Networks
-If you need an introduction or refresher, consider watching:
-  3blue1brown or this video on Deep Learning in Javascript by Ashi Krishnan.
 
 ## Trials:
 To run the webpage, simply open 'index.html' in a Web Browser. If you use
